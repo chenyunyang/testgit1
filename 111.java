@@ -1,1 +1,4 @@
-main
+class A 
+{
+	System.out.println("A");
+}
